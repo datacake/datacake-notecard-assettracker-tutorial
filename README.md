@@ -1,5 +1,5 @@
 # Datacake Notecard Asset Tracker Tutorial
-Decoder, Dashboard-Data and other information for the [Datacake](http://datacake.co/) Notecard Asset Tracker Tutorial on Hackster.io
+Decoder, Dashboard-Data and other information for the [Datacake](http://datacake.co/) Notecard Asset Tracker Tutorial on [Hackster.io](https://www.hackster.io/simon-kemper/how-to-build-a-gps-tracker-with-notecard-and-datacake-7c4b41)
 
 ## Dashboard
 
